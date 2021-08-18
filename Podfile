@@ -13,5 +13,5 @@ pod 'Firebase'
 pod 'Firebase/Firestore'
 # pod 'Firebase', '>= 2.5.1'
 
-pod 'Firebase/Storage'
+# pod 'Firebase/Storage'
 end
