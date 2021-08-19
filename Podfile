@@ -7,11 +7,11 @@ target 'FitnessApp' do
   use_frameworks!
 
   # Pods for FitnessApp
-pod 'Firebase'
+#pod 'Firebase'
 
 
-# pod 'Firebase/Firestore'
-# pod 'Firebase', '>= 2.5.1'
+pod 'Firebase/Firestore'
+pod 'Firebase', '>= 2.5.1'
 
 pod 'Firebase/Storage'
 end
